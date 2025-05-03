@@ -1,3 +1,4 @@
+track name="UCNE Regions" description="Ultraconserved Noncoding Elements from hg19" visibility=2 color=0,0,255
 chr1	3190804	3191011	chr1_Abraham	3232
 chr1	10573940	10574151	CASZ1_Benjamin	3304
 chr1	10575142	10575471	CASZ1_Cameron	3305
