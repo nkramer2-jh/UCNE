@@ -2,4 +2,4 @@ track name=UCNE description="UCNE coordinates" visibility=3
 https://raw.githubusercontent.com/nkramer2-jh/UCNE/main/hg19_UCNE_coord.bed
 
 track name=H3K4me1 description="Filtered H3K4me1 peaks" visibility=3 color=255,0,0
-https://raw.githubusercontent.com/nkramer2-jh/UCNE/refs/heads/main/H3K4me1_filtered.bed
+https://raw.githubusercontent.com/nkramer2-jh/UCNE/refs/heads/main/H3K4me1_signal.bedGraph
