@@ -1,4 +1,4 @@
-track type=bedGraph name="H3K4me1" description="H1-hESC H3K4me1 signal" color=0,0,255 visibility=2
+track type=bedGraph name="H3K4me1" description="H1-hESC H3K4me1 signal" color=0,0,255 visibility=2 height=64
 chr22	16850756	16850925	1000.0
 chr22	17600830	17601015	944.0
 chr22	17639189	17639409	929.0
