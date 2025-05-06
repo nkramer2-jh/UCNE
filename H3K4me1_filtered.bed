@@ -1,3 +1,4 @@
+track name="UCNE Regions" description="Ultraconserved Noncoding Elements from hg19" visibility=2 color=0,255,0
 chr22	16850756	16850925	.	1000	.	19.330198	16.0	-1
 chr22	17600830	17601015	.	944	.	11.351827	6.2	-1
 chr22	17639189	17639409	.	929	.	11.136830	8.1	-1
